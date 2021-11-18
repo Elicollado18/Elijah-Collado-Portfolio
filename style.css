@@ -1,0 +1,32 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: pink;
+  font-family: "Trebuchet MS";
+  background: white;
+  background-image: url(https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2Fwebsite-background-image-size-psd-vector-photo.jpeg?v=1636839935622)
+  
+}
+nav {
+  font-family: Copperplate;
+  text-color: pink;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
