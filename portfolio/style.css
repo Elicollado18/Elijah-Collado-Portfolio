@@ -1,0 +1,30 @@
+body {
+  padding-top: 10rem;
+  margin: 5em;
+  font-family: "Trebuchet MS";
+  color: pink;
+  background-image: url("https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2F337-3371471_website-background-wallpapers-cool-simple-background-designs.jpeg?v=1636840230341");
+  
+}
+nav {
+  font-family: Copperplate;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
