@@ -1,21 +1,24 @@
-body {
-  padding-top: 10rem;
+ody {
+  padding-top: 5rem;
   margin: 5em;
+  color: lavender;
   font-family: "Trebuchet MS";
-  color: brown;
+  background: white;
 }
-body { background-image:url(https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2Fnaruto-background.gif?v=1637372333252); 
+  body { background-image:url(https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2FHMvH1s.mp4?v=1637299266362); 
   background-repeat:repeat;
-  background-size: 1500px;
+  background-size: 2200px;
 }
+  
   
 }
 nav {
   font-family: Copperplate;
+  text-color: pink;
 }
 .starter-template {
   padding: 3rem 1.5rem;
-  text-align: left;
+  text-align: center;
  
   
 }
