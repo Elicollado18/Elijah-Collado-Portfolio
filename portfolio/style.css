@@ -3,7 +3,12 @@ body {
   margin: 5em;
   font-family: "Trebuchet MS";
   color: pink;
-  background-image: url("https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2F337-3371471_website-background-wallpapers-cool-simple-background-designs.jpeg?v=1636840230341");
+}
+body { background-image:url(https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2Fnaruto-background.gif?v=1637372333252); 
+  background-repeat:repeat;
+  background-size: 2000px;
+}
+  
   
 }
 nav {
@@ -27,4 +32,5 @@ nav {
   color: white;
   
 }
+
 
