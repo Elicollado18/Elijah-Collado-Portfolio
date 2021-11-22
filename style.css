@@ -1,8 +1,8 @@
-ody {
+body {
   padding-top: 5rem;
   margin: 5em;
   color: lavender;
-  font-family: "Trebuchet MS";
+  font-family: "copperplate";
   background: white;
 }
   body { background-image:url(https://cdn.glitch.me/1e743bef-bdd3-48af-aba9-f38a0a5119da%2FHMvH1s.mp4?v=1637299266362); 
@@ -13,7 +13,7 @@ ody {
   
 }
 nav {
-  font-family: Copperplate;
+  font-family: "Copperplate";
   text-color: pink;
 }
 .starter-template {
